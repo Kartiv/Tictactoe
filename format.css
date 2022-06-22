@@ -1,0 +1,37 @@
+#title{
+    text-align:center;
+    color:blueviolet;
+    font-size:x-large;
+    font-family:'Gill Sans';
+    text-decoration: underline;
+    text-underline-position: below;
+}
+
+#div{
+    position: fixed;
+    top:25%;
+    left:Calc(50% - 267px);
+}
+
+body{
+    background-color:beige;
+}
+
+#div2{
+    position:fixed;
+    top:20%;
+}
+
+#toMove{
+    position:fixed;
+    top: 10%;
+    left:4%;
+    font-family:'Trebuchet MS'
+}
+
+#start{
+    position:fixed;
+    height: 30px;
+    width: 80px;
+    left:Calc(50% - 40px);
+}
